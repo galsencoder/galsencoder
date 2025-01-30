@@ -70,10 +70,9 @@ salou()
 ---
 
 ## 📝 **Philosophie**
-```bash
+
 > *"Galsen Code n'est pas une personne, c'est un mouvement. Je suis simplement le premier maillon d'une chaîne qui vous appartient à tous."*
----
+> 
 > *"En Afrique, nous n'avons pas besoin de suivre les tendances tech – nous devons les créer."*  
 > — Galsen Code
-```
 ---
