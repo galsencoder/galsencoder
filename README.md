@@ -64,6 +64,7 @@ salou()
 
 ## 📊 **Mon Activité GitHub**
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=codegalsen&show_icons=true&theme=algolia&hide_border=true)
+
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=codegalsen&layout=compact&theme=algolia)
 
 ---
