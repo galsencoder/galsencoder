@@ -50,7 +50,6 @@ salou()
 [![Telegram](https://img.shields.io/badge/-@galsencode-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/galsencode)
 [![YouTube](https://img.shields.io/badge/-@galsencode-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@galsencode)
 [![Instagram](https://img.shields.io/badge/-@galsencode-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/galsencode)
-[![LinkedIn](https://img.shields.io/badge/-Galsen_Code-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/galsencode)
 
 **💎 Email professionnel** :  
 [![Email](https://img.shields.io/badge/DISCUTONS_📩-galsencode@gmail.com-2FC5D0?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:galsencode@gmail.com)
