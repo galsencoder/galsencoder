@@ -6,7 +6,7 @@
 ---
 
 ## 📌 **À propos**
-```bash
+```bash 
 # Qui suis-je ?
 - 🎓 Étudiant en Maths/Info (Focus : Machine Learning & Cybersécurité)
 - 🛠️ Créateur de Galsen Code : Plateforme éducative pour passionnés d'informatique
