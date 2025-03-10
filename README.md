@@ -1,17 +1,15 @@
 # 🌍 Galsen Code
 
-**Étudiant Sénégalais en Mathématiques & Informatique | Fondateur de Galsen Code**  
-*"Libérer le potentiel tech africain, une ligne de code à la fois."*
+**🖥️ Galsen Code – Apprends à coder simplement 🚀**  
+*"Bienvenue sur **Galsen Code**, la plateforme qui rend la programmation accessible à tous ! Que tu sois débutant ou passionné de tech, ici, tu trouveras tout ce qu'il faut pour progresser en informatique.."*
 
 ---
 
 ## 📌 **À propos**
 ```bash 
-# Qui suis-je ?
-- 🎓 Étudiant en Maths/Info (Focus : Machine Learning & Cybersécurité)
-- 🛠️ Créateur de Galsen Code : Plateforme éducative pour passionnés d'informatique
-- 🎯 Mission : Rendre la tech accessible via des tutoriels, projets open-source et ressources gratuites
-- 🧠 Fun Fact : "Je code mieux que je ne parle anglais… mais je travaille sur les deux !"
+- 🧠 Galsen Code est né de la passion d'un jeune sénégalais ambitieux.
+- Notre objectif ?
+    Rendre le monde du numérique accessible à tous et permettre à chacun d’exploiter son     plein potentiel.
 ```
 
 ## 🔧 **Stack Technique**
@@ -31,18 +29,6 @@ class GalsenCodeRoadmap:
         
     def show_vision(self):
         print("💡 Objectif : Former toutes les personnes passionnées par la tech, sans distinction de nationalité !")
-```
-
-## 🦜 **Exemple en Wolof (Pour l'accessibilité)**  
-```python
-# Ndefarou Python ci Wolof 🐍
-xarala = ["jàng", "liggéey", "dóor"]
-teewul = [xarala[i] for i in range(3) if xarala[i] != "dóor"]
-
-def salou():
-    print("Jàpp Galsen Code ci https://github.com/galsencode")
-
-salou()
 ```
 
 ## 👀 **Réseaux & Contact**
