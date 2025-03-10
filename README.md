@@ -1,64 +1,102 @@
-# 🌍 Galsen Code
+# 🌍 Galsen Code  
 
-**🖥️ Galsen Code – Apprends à coder simplement 🚀**  
-*"Bienvenue sur **Galsen Code**, la plateforme qui rend la programmation accessible à tous ! Que tu sois débutant ou passionné de tech, ici, tu trouveras tout ce qu'il faut pour progresser en informatique.."*
+## 🚀 Apprends à coder simplement et efficacement  
+
+*"Bienvenue sur **Galsen Code**, la plateforme qui démocratise l'apprentissage du code ! Que tu sois un **débutant curieux** ou un **passionné de tech**, ici, tu trouveras toutes les ressources pour maîtriser la programmation et te lancer dans le monde du numérique."*  
 
 ---
 
-## 📌 **À propos**
-```bash 
-- 🧠 Galsen Code est né de la passion d'un jeune sénégalais ambitieux.
-- Notre objectif ?
-    Rendre le monde du numérique accessible à tous et permettre à chacun d’exploiter son     plein potentiel.
+## 📌 À propos  
+
+```bash
+- 🧠 Galsen Code est né de la vision d'un jeune développeur sénégalais ambitieux.
+- 🎯 Notre mission ? 
+    Rendre la technologie accessible à tous et permettre à chacun de s’épanouir dans le numérique.
+- 🌍 Un projet ouvert à tous, sans distinction de nationalité, d’âge ou de niveau.
 ```
 
-## 🔧 **Stack Technique**
-**En cours...**
+### 📚 Ce que nous offrons :  
+✅ Des **cours détaillés** sur divers langages de programmation.  
+✅ Des **projets pratiques** pour appliquer ce que tu apprends.  
+✅ Un **espace d’entraide** où la communauté grandit ensemble.  
 
 ---
 
-## 🛠️ **Projets en cours**
+## 🔧 Stack Technique  
+
+🚀 **Langages & Outils utilisés :**  
+- **Langages** : Python, JavaScript, Java, C, HTML, CSS...  
+- **Frameworks** : Django, React, Node.js  
+- **Base de données** : MySQL, PostgreSQL  
+- **Autres outils** : Git, Docker, Linux  
+
+*(Cette liste évoluera en fonction des besoins de la communauté.)*  
+
+---
+
+## 🛠️ Projets en cours  
+
 ```python
 class GalsenCodeRoadmap:
     def __init__(self):
         self.current_projects = [
-            "📚 Création de cours en Python, Java, JavaScript, C, Machine Learning, HTML, CSS...",
+            "📚 Création de cours en Python, JavaScript, Java, C, Machine Learning, etc.",
             "🛠️ Développement d'une plateforme d'apprentissage collaboratif",
-            "🌍 Explication de certains cours en Wolof à l'avenir, lorsque la communauté grandira"
+            "🎙️ Tutoriels en Wolof pour rendre la tech accessible localement",
+            "📖 Publication d’un eBook sur Python pour les débutants"
         ]
         
     def show_vision(self):
-        print("💡 Objectif : Former toutes les personnes passionnées par la tech, sans distinction de nationalité !")
+        print("💡 Objectif : Former toutes les personnes passionnées par la tech, peu importe leur niveau !")
 ```
 
-## 👀 **Réseaux & Contact**
-[![Discord](https://img.shields.io/badge/-@galsencode-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/galsencode)
-[![Telegram](https://img.shields.io/badge/-@galsencode-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/galsencode)
-[![YouTube](https://img.shields.io/badge/-@galsencode-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@galsencode)
-[![Instagram](https://img.shields.io/badge/-@galsencode-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/galsencode)
-
-**💎 Email professionnel** :  
-[![Email](https://img.shields.io/badge/DISCUTONS_📩-galsencode@gmail.com-2FC5D0?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:galsencode@gmail.com)
+🔥 **Vision à long terme :**  
+- Créer une **communauté forte** de développeurs et passionnés de technologie en Afrique.  
+- Offrir des **formations accessibles et gratuites**.  
+- Aider les membres à **trouver des opportunités professionnelles** grâce à leurs compétences.  
 
 ---
 
-## ☕ **Soutenir l'initiative**
-<a href="https://www.buymeacoffee.com/galsencode"><img src="https://img.buymeacoffee.com/button-api/?text=Offrez-moi un café&emoji=☕&slug=galsencode&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
+## 👀 Rejoins-nous sur nos plateformes  
 
-*"Chaque contribution finance des ressources gratuites pour la communauté."*  
+📢 **Suivez Galsen Code sur :**  
 
+[![Discord](https://img.shields.io/badge/-Rejoindre_@galsencode-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/galsencode)  
+[![Telegram](https://img.shields.io/badge/-Rejoindre_@galsencode-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/galsencode)  
+[![YouTube](https://img.shields.io/badge/-Abonne_toi_@galsencode-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@galsencode)  
+[![Instagram](https://img.shields.io/badge/-Suivre_@galsencode-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/galsencode)  
 
-## 📊 **Mon Activité GitHub**
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=codegalsen&show_icons=true&theme=algolia&hide_border=true)
-
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=codegalsen&layout=compact&theme=algolia)
+💌 **Email professionnel** :  
+[![Email](https://img.shields.io/badge/📩_Contact-galsencode@gmail.com-2FC5D0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galsencode@gmail.com)  
 
 ---
 
-## 📝 **Philosophie**
+## ☕ Soutenir l'initiative  
 
-> *"Galsen Code n'est pas une personne, c'est un mouvement. Je suis simplement le premier maillon d'une chaîne qui vous appartient à tous."*
-> 
-> *"En Afrique, nous n'avons pas besoin de suivre les tendances tech – nous devons les créer."*  
-> — Galsen Code
+*Aidez-nous à continuer à fournir des ressources gratuites et accessibles !*  
+
+<a href="https://www.buymeacoffee.com/galsencode"><img src="https://img.buymeacoffee.com/button-api/?text=Offrez-moi un café&emoji=☕&slug=galsencode&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>  
+
+*"Chaque contribution finance la création de contenus éducatifs et de nouvelles ressources pour la communauté."*  
+
 ---
+
+## 📊 Statistiques GitHub  
+
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=codegalsen&show_icons=true&theme=algolia&hide_border=true)  
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=codegalsen&layout=compact&theme=algolia)  
+
+---
+
+## 📝 Philosophie  
+
+> *"Galsen Code n'est pas une simple initiative, c'est un mouvement. Nous sommes la preuve que l'Afrique peut devenir un acteur majeur du numérique."*  
+
+> *"Nous ne suivons pas les tendances, nous les créons."*  
+
+🔥 **Rejoins-nous et bâtissons ensemble l’avenir du numérique en Afrique !**  
+
+---
+
+💡 **Tu veux contribuer à Galsen Code ?**  
+📩 Contacte-nous, propose des idées et participe à nos projets open-source !
