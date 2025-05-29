@@ -6,19 +6,11 @@
 
 ---
 
-## 📌 À propos  
+## 🎯 Notre mission ?  
 
 ```bash
-- 🧠 Galsen Code est né de la vision d'un jeune développeur sénégalais ambitieux.
-- 🎯 Notre mission ? 
-    Rendre la technologie accessible à tous et permettre à chacun de s’épanouir dans le numérique.
-- 🌍 Un projet ouvert à tous, sans distinction de nationalité, d’âge ou de niveau.
+Rendre la technologie accessible à tous et permettre à chacun de s’épanouir dans le numérique.
 ```
-
-### 📚 Ce que nous offrons :  
-✅ Des **cours détaillés** sur divers langages de programmation.  
-✅ Des **projets pratiques** pour appliquer ce que tu apprends.  
-✅ Un **espace d’entraide** où la communauté grandit ensemble.  
 
 ---
 
@@ -42,7 +34,6 @@ class GalsenCodeRoadmap:
         self.current_projects = [
             "📚 Création de cours en Python, JavaScript, Java, C, Machine Learning, etc.",
             "🛠️ Développement d'une plateforme d'apprentissage collaboratif",
-            "🎙️ Tutoriels en Wolof pour rendre la tech accessible localement",
             "📖 Publication d’un eBook sur Python pour les débutants"
         ]
         
@@ -50,8 +41,7 @@ class GalsenCodeRoadmap:
         print("💡 Objectif : Former toutes les personnes passionnées par la tech, peu importe leur niveau !")
 ```
 
-🔥 **Vision à long terme :**  
-- Créer une **communauté forte** de développeurs et passionnés de technologie en Afrique.  
+🔥 **Vision à long terme :**    
 - Offrir des **formations accessibles et gratuites**.  
 - Aider les membres à **trouver des opportunités professionnelles** grâce à leurs compétences.  
 
@@ -83,8 +73,7 @@ class GalsenCodeRoadmap:
 
 ## 📊 Statistiques GitHub  
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=codegalsen&show_icons=true&theme=algolia&hide_border=true)  
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=codegalsen&layout=compact&theme=algolia)  
+[![Galsen Code's GitHub stats](https://github-readme-stats.vercel.app/api?username=galsencoder\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/galsencoder/github-readme-stats#responsive-card-theme#gh-dark-mode-only)  
 
 ---
 
