@@ -76,7 +76,6 @@ class GalsenCodeRoadmap:
 [![Galsen Code's GitHub stats](https://github-readme-stats.vercel.app/api?username=galsencoder\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/galsencoder/github-readme-stats#responsive-card-theme#gh-dark-mode-only)  
 
 ---
-
 ## 📝 Philosophie  
 
 > *"Galsen Code n'est pas une simple initiative, c'est un mouvement. Nous sommes la preuve que l'Afrique peut devenir un acteur majeur du numérique."*  
